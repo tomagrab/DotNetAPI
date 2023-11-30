@@ -1,0 +1,54 @@
+# Directories #
+[Bb]in/
+[Oo]bj/
+[Ll]ogs/
+[Pp]roperties/
+[Tt]est[Rr]esults/
+
+# Files #
+appsettings*.json
+bundleconfig.json
+
+# Visual Studio Files #
+.vs/
+*.user
+*.suo
+*.userprefs
+
+# Rider Files #
+.idea/
+
+# Build Results #
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+
+# NuGet #
+packages/
+*.nupkg
+*.snupkg
+NuGet.Config
+
+# Tools #
+*.dll
+*.exe
+*.pfx
+*.snk
+
+# Logs and databases #
+*.log
+*.ldf
+*.mdf
+*.sqlite
+
+# OS generated files #
+.DS_Store
+Thumbs.db
+
+# Others #
+*.swp
+*.bak
+*.tmp
+*.mdmp
